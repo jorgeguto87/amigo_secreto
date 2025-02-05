@@ -45,6 +45,8 @@ Obs: Para instalar o git você deve fazer pelo prórpio terminal através do wge
 
 ## 🔨 Dependências do projeto:
 
+- `assets`
+- `README.md`
 - `index.html`
 - `style.css`
 - `app.js`
