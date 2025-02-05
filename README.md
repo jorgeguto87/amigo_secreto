@@ -31,3 +31,25 @@
 - `Mensagem de alerta`: Exibe uma mensagem de alerta ao clicar no botão adicionar com o campo em branco.
 - `Sorteio sem amigo`: Exibe uma mensagem orientando a adicionar amigos ao tentar realizar o sorteio sem ter amigos adicionados.
 
+## 🔨 Como instalar:
+
+➡️ Com o git instalado na sua máquina, execute este processo no terminal:
+
+- `Navegue até a pasta aonde gostaria de salvar o projeto`: Exemplo: cd users\nomedousuario\onedrive\área de trabalho
+- `Para melhor organização, crie uma pasta para baixar o projeto`: mkdir projetos
+- `Abra a pasta com este comando`: cd projetos
+- `Baixe o repositório para esta pasta`: git clone https://github.com/jorgeguto87/amigo_secreto.git "Isto criará uma pasta com o nome amigo_secreto"
+- `No desktop abra a pasta criada`: Clique no arquivo index.html e divirta-se
+
+Obs: Para instalar o git você deve fazer pelo prórpio terminal através do wget ou baixar o git em https://git-scm.com/downloads
+
+## 🔨 Dependências do projeto:
+
+- `index.html`
+- `style.css`
+- `app.js`
+
+## 💻 Desenvolvido por:
+
+[<img loading="lazy" src="https://github.com/user-attachments/assets/984be116-aabd-447c-b301-12c92b0e2077" width=115><br><sub>Jorge Augusto</sub>](https://github.com/jorgeguto87)
+
